@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.Entities\\MicroType.ValueObjects.csproj": {}
+    "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.ValueObjects\\MicroType.ValueObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.Entities\\MicroType.ValueObjects.csproj": {
+    "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.ValueObjects\\MicroType.ValueObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.Entities\\MicroType.ValueObjects.csproj",
+        "projectUniqueName": "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.ValueObjects\\MicroType.ValueObjects.csproj",
         "projectName": "MicroType.ValueObjects",
-        "projectPath": "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.Entities\\MicroType.ValueObjects.csproj",
+        "projectPath": "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.ValueObjects\\MicroType.ValueObjects.csproj",
         "packagesPath": "C:\\Users\\Hasan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Hasan\\Desktop\\Projects\\C#Example\\MicroType\\MicroType.ValueObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",

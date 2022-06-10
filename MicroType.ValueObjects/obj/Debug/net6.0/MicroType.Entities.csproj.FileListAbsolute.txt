@@ -1,0 +1,12 @@
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\bin\Debug\net6.0\MicroType.Entities.deps.json
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\bin\Debug\net6.0\MicroType.Entities.dll
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\bin\Debug\net6.0\MicroType.Entities.pdb
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.dll
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\refint\MicroType.Entities.dll
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\MicroType.Entities.pdb
+C:\Users\Hasan\Desktop\Projects\C#Example\MicroType\MicroType.Entities\obj\Debug\net6.0\ref\MicroType.Entities.dll
