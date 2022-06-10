@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MicroType.EndPoints/1.0.0": {
+        "dependencies": {
+          "MicroType.ValueObjects": "1.0.0"
+        },
+        "runtime": {
+          "MicroType.EndPoints.dll": {}
+        }
+      },
+      "MicroType.ValueObjects/1.0.0": {
+        "runtime": {
+          "MicroType.ValueObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroType.EndPoints/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MicroType.ValueObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
